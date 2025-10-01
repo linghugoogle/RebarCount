@@ -85,6 +85,12 @@ open RebarCount.xcodeproj
 - **模型大小**: 约 6MB
 - **推理速度**: < 100ms (iPhone 12)
 
+## 模型微调
+
+- 数据集：[https://github.com/linghugoogle/RebarCountDataset](https://github.com/linghugoogle/RebarCountDataset)
+- 微调
+![Finetune](Preview/results.png)
+
 ## 性能优化
 
 - 使用 MNN 框架进行模型加速
